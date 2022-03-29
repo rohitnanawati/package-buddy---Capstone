@@ -1,0 +1,9 @@
+flask==1.1.4
+flask-ngrok==0.0.25
+regex
+numpy
+pandas
+spacy==3.2
+google.cloud
+google.cloud.vision
+scikit-image
